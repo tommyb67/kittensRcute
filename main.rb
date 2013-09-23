@@ -1,1 +1,1 @@
-put 'Kittens are cute'
+puts 'Kittens are cute'
